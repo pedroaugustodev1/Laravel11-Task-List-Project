@@ -1,6 +1,5 @@
 
-<h2>Task List</h2>
-<hr>
-<h1>📍 Por quê do Projeto?</h1>
-<p>Um pequeno projeto voltado para estudos de Laravel e a relação com o servidor. Com conteúdo mockado, para testar como funcionaria a relação entre front e back. Envolve a configuração do framework, criação de rotas, controladores, modelos e uso de migrações para o banco de dados.</p>
+<h1>Task List</h1>
+<h2>📍 Por quê do Projeto?</h2>
+<p>Projeto voltado a estudo e organização de tarefas</p>
 <img src="/resources/images/Task2.png" />
