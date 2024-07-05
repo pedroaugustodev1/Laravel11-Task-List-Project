@@ -1,2 +1,1 @@
-<h1>Teste</h1>
-<p>Teste</p>
+<img src="/resources/images/Task.png" />
