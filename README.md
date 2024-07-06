@@ -20,9 +20,6 @@ git clone https://github.com/pedroaugustodev1/Laravel11-Task-List-Project.git
 npm i 
 ```
 
-- Configure o arquivo .env: 
-Copie o arquivo .env.example para .env e configure suas variáveis de ambiente, especialmente a configuração do banco de dados.
-
 - Execute as migrações:
 
 ```shell 
@@ -51,10 +48,11 @@ php artisan serve
 
 ### 📄 O que falta?
 
-- ☑️ Melhora de animações gerais;
+- ☑️ Filtros e Ordenação;
+- ☑️ Notificações;
+- ☑️ Polimento de Design;
 - ☑️ Responsividade;
-- ☑️ Adicionar novos post;
 
-  ---
+---
 
 <div align="center">Feito por <a href="">Pedro Augusto</a>  </div>
