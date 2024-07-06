@@ -8,25 +8,31 @@
 
 ---
 ### ⭐ Como utilizar este projeto localmente?
--  Para fazer este projeto rodar em sua máquina, recomendo **clonar** este projeto e instalar qualquer versão acima da **12** do [node](https://nodejs.org/en/download) em sua máquina.
+-  Clone o repositório:
 
 ```shell
-git clone https://github.com/stherzada/stherzada-project.git
+git clone https://github.com/seu-usuario/task-list-laravel.git
 ```
 
-- Logo após, abra seu terminal dentro da sua IDE e digite:
+- Instale as dependências:
 
 ```shell
 npm i 
 ```
 
-- Quando todas as expansões forem baixadas, dê este comando no terminal:
+- Configure o arquivo ".env": Copie o arquivo .env.example para .env e configure suas variáveis de ambiente, especialmente a configuração do banco de dados.
+
+- Execute as migrações:
 
 ```shell 
-npm run dev
+php artisan migrate
 ```
 
- - Clique no link que será gerado com **_ctrl + botão esquerdo do mouse_**, exemplo de link que pode ser gerado: http://localhost:0001/
+ - Inicie o servidor local: Você pode acessar a aplicação em http://localhost:8000.
+```shell 
+php artisan serve
+```
+ 
 
    
 
