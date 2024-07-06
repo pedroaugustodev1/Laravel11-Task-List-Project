@@ -4,7 +4,7 @@
 
 - Este projeto foi criado para ajudar os usuários a gerenciar suas tarefas diárias de forma eficiente e organizada. Com uma interface simples e intuitiva, a aplicação permite adicionar, editar e excluir tarefas, bem como marcar tarefas como concluídas. A ideia é fornecer uma ferramenta prática para melhorar a produtividade e organização pessoal.
 
-![imagem do site, com um titulo chamado Task List](https://imgur.com/a/DXxA2u6)
+![imagem do site, com um titulo chamado Task List](https://imgur.com/a/DXxA2u6.png)
 
 ---
 ### ⭐ Como utilizar este projeto localmente?
@@ -20,7 +20,8 @@ git clone https://github.com/pedroaugustodev1/Laravel11-Task-List-Project.git
 npm i 
 ```
 
-- Configure o arquivo ".env": Copie o arquivo .env.example para .env e configure suas variáveis de ambiente, especialmente a configuração do banco de dados.
+- Configure o arquivo .env: 
+Copie o arquivo .env.example para .env e configure suas variáveis de ambiente, especialmente a configuração do banco de dados.
 
 - Execute as migrações:
 
@@ -28,23 +29,13 @@ npm i
 php artisan migrate
 ```
 
- - Inicie o servidor local: Você pode acessar a aplicação em http://localhost:8000.
+- Inicie o servidor local: 
 ```shell 
 php artisan serve
 ```
- 
+- Você pode acessar a aplicação em http://localhost:8000.
 
-   
-
-### Para utilizar o server simulado é necessário usar:
-
- ```shell
-npm json-server server-codelandia/db.json
-```
- 
- - Utilize em outra guia do terminal para que possa, ver a simulação em tempo em real.
-
- ---
+---
 
 ### 🛠 Tecnologias Utilizadas
 
