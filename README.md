@@ -9,24 +9,16 @@
     </ul>
 </div>
 
-<img src="/resources/images/Task2.png" />
+<img src="/resources/images/Index_layout.png" />
 
 <div>
-    <h3>Funcionalidades Principais</h3>
+    <h3>🔧 Funcionalidades Principais</h3>
     <ul>
         <li> 
-            <strong>Adicionar Tarefas: </strong>Permite adicionar tarefas com descrição.
-        </li>
-        <li> 
-            <strong>Editar Tarefas: </strong>Possibilidade de editar as informações das tarefas existentes.
-        </li>
-        <li> 
-            <strong>Excluir Tarefas: </strong>Remover tarefas da lista.
-        </li>
-        <li> 
-            <strong>Marcar como Concluída: </strong>Função para marcar as tarefas como concluídas.
+            <strong>Gerenciar Tarefas:: </strong>Permite adicionar tarefas com descrição, marcar como concluídas, editar suas informações e excluí-las conforme necessário.
         </li>
     </ul>
+<img src="/resources/images/task_layout.png" />
 </div>
 
 <div>
@@ -36,6 +28,7 @@
             a
         </li>
     </ul>
+    <div class="highlight highlight-source-shell notranslate position-relative overflow-auto">teste 123 teste 123</div>
 </div>
 
 
@@ -43,25 +36,25 @@
     <h3>🛠 Tecnologias Utilizadas</h3>
     <ul>
         <li> 
-            <strong>Laravel: </strong>Framework PHP para desenvolvimento web.
+            <strong><a href="https://laravel.com/">Laravel: </a></strong>Framework PHP para desenvolvimento web.
         </li>
         <li> 
-            <strong><a href="https://www.php.net/">PHP:</a></strong>Linguagem de programação do lado do servidor.
+            <strong><a href="https://www.php.net/">PHP: </a></strong>Linguagem de programação do lado do servidor.
         </li>
         <li> 
-            <strong>MySQL: </strong>Banco de dados relacional.
+            <strong><a href="https://www.mysql.com/">MySQL: </a></strong>Banco de dados relacional.
         </li>
         <li> 
-            <strong>Composer: </strong>Gerenciador de dependências para PHP.
+            <strong><a href="https://getcomposer.org/">Composer: </a></strong>Gerenciador de dependências para PHP.
         </li>
         <li> 
-            <strong>Tailwind: </strong>Framework CSS utilitário para criar interfaces de usuário customizáveis.
+            <strong><a href="https://tailwindcss.com/">Tailwind: </a></strong>Framework CSS utilitário para criar interfaces de usuário customizáveis.
         </li>
         <li> 
-            <strong>Vite: </strong>Ferramenta de build para projetos front-end.
+            <strong><a href="https://vitejs.dev/">Vite: </a></strong>Ferramenta de build para projetos front-end.
         </li>
         <li> 
-            <strong>Docker: </strong>Plataforma para desenvolvimento e deploy de aplicações em containers.
+            <strong><a href="https://www.docker.com/">Docker: </a></strong>Plataforma para desenvolvimento e deploy de aplicações em containers.
         </li>
     </ul>
 </div>
