@@ -55,4 +55,4 @@ php artisan serve
 
 ---
 
-<div align="center">Feito por <a href="">Pedro Augusto</a>  </div>
+<div align="center">Feito por <a href="https://www.linkedin.com/in/pedro-augustodf/">Pedro Augusto</a>  </div>
