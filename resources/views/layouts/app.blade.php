@@ -61,7 +61,7 @@
             .background {
                 background-repeat: no-repeat;
                 background-size: cover;
-                background: #e8f8fa;
+                background: #f7fbfc;
             } 
 
             label {
