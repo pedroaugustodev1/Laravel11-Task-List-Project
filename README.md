@@ -11,7 +11,7 @@
 -  Clone o repositório:
 
 ```shell
-git clone https://github.com/seu-usuario/task-list-laravel.git
+git clone https://github.com/pedroaugustodev1/Laravel11-Task-List-Project.git 
 ```
 
 - Instale as dependências:
