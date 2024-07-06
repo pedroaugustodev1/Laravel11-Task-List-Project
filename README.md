@@ -4,7 +4,7 @@
 
 - Este projeto foi criado para ajudar os usuários a gerenciar suas tarefas diárias de forma eficiente e organizada. Com uma interface simples e intuitiva, a aplicação permite adicionar, editar e excluir tarefas, bem como marcar tarefas como concluídas. A ideia é fornecer uma ferramenta prática para melhorar a produtividade e organização pessoal.
 
-![imagem do site, com um titulo chamado Task List](https://imgur.com/a/DXxA2u6.png)
+![imagem do site, com um titulo chamado Task List](https://imgur.com/a/BQdciBX)
 
 ---
 ### ⭐ Como utilizar este projeto localmente?
